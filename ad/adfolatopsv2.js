@@ -2,13 +2,13 @@ document.write('<div id="floatads" style="width:100%;margin:auto; text-align:cen
 document.write('<div style="text-align:center;display:block;max-width:729px;height:auto;overflow:hidden;margin:auto;">');
 
 atOptions = {
-		'key' : 'b7de6d42176768af896d8cf77e8f7bb7',
+		'key' : '4176be5ee66193fc3cff3d0840f8e95c',
 		'format' : 'iframe',
 		'height' : 90,
 		'width' : 728,
 		'params' : {}
 	};
-document.write('<scr' + 'ipt type="text/javascript" src="//abackdamstubborn.com/b7de6d42176768af896d8cf77e8f7bb7/invoke.js"></scr' + 'ipt>');
+document.write('<scr' + 'ipt type="text/javascript" src="//www.highperformanceformat.com/4176be5ee66193fc3cff3d0840f8e95c/invoke.js"></scr' + 'ipt>');
 
 document.write('</div>');
 document.write('</div>');
